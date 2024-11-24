@@ -5,4 +5,4 @@ El objetivo es ofrecer a los peatones una herramienta para tomar decisiones info
 
 Este proyecto utiliza como base el repositorio [`aves`](https://github.com/zorzalerrante/aves): Análisis y Visualización, Educación y Soporte, de [Eduardo Graells-Garrido](http://www.datagramas.cl) y [Daniela Opitz](https://calipsotornasol.github.io/).
 
-Este proyecto está siendo diseñado por [Daniela Moraga](https://github.com/danielamoraga/) y Scarleth Betancurt.
+Este proyecto está siendo diseñado por [Daniela Moraga](https://github.com/danielamoraga/) y [Scarleth Betancurt](https://github.com/scarleth-bc/).
